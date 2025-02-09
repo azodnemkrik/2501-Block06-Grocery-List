@@ -1,0 +1,82 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: #ff0000da;
+}
+
+h3 {
+    color: #333333;
+}
+
+table {
+    background-color: #cccccc;
+    padding: 20px;
+    border-spacing: 10px;
+    width: 100%;
+}
+
+.lilita-one-regular {
+    font-family: "Lilita One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.pacifico-regular {
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.dancing-script-regular {
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container {
+    position: absolute;
+    text-align: left;
+    width: 50%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+li {
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+th {
+    background-color: #666666;
+    text-align: center;
+}
+
+td {
+    background-color: #999999;
+    padding: 30px;
+}
+
+.pantryHeader {
+    background-color: rgb(169, 93, 0);
+    color: rgb(239, 218, 194);
+}
+
+.pantryItems {
+    background-color: rgb(255, 236, 212);
+}
+
+.freezerHeader {
+    background-color: #92f4ff;
+    color: rgb(1, 121, 226);
+}
+
+.freezerItems {
+    background-color: #d9fafe;
+}
+.rowspace {
+    height: 30px;
+}
